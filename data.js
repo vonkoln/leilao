@@ -42,7 +42,7 @@ export default  [
     file: "7.mp3",
   },  
   {
-    title:"8 -,
+    title:"8 -",
     artist: "Taos Elieri",
     cover: "1.jpeg",
     file: "8.mp3",
