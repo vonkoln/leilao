@@ -1,8 +1,8 @@
 export default  [  
   {
-    title:"1 -",
-    artist: "",
-    cover: "1.jpeg",
+    title:"0 Boas Vindas",
+    artist: "Módulo 00",
+    cover: "1.jpg",
     file: "1.mp3",
   },  
   {
