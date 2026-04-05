@@ -9,7 +9,7 @@ export default [
   {
     title: "Aula 1 - Desmistificando o Leilão",
     artist: "Módulo 01 - Noções gerais sobre os leilões",
-    cover: "1.jpeg",
+    cover: "1.jpg",
     file: "2.mp3",
   }, // segundo item do array
 
