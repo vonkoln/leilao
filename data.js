@@ -2,45 +2,45 @@ export default [
   {
     title: "Aula 0 Boas Vindas",
     artist: "Módulo 00",
-    cover: "1.jpg",
-    file: "1.mp3",
-  }/*, // primeiro item do array
+    cover: "0.jpg",
+    file: "0.mp3",
+  },
 
   {
-    title: "2 -",
-    artist: "",
+    title: "Aula 1 - Desmistificando o Leilão",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
     cover: "1.jpeg",
     file: "2.mp3",
   }, // segundo item do array
 
   {
-    title: "3 -",
-    artist: "",
-    cover: "1.jpeg",
-    file: "3.mp3",
+    title: "Aula 2 - `Por que o imóvel vai a leilão e modalidades",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
+    file: "2.mp3",
   },
 
   {
-    title: "4 -",
-    artist: "Remix Taos Elieri",
-    cover: "1.jpeg",
-    file: "4.mp3",
+    title: "Aula 3 - Tipos de Leilão, Online, Presencial e Híbrido",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
+    file: "3.mp3",
   }, // exemplo de comentário adicional
 
   {
-    title: "5 -",
-    artist: "",
-    cover: "1.jpeg",
-    file: "5.mp3",
+    title: "Aula 4 - Quem pode participar dos leilões",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
+    file: "4.mp3",
   },
 
   {
-    title: "6 -",
-    artist: "",
-    cover: "1.jpeg",
-    file: "6.mp3",
-  },
-
+    title: "Aula 5 - Matrícula do Imóvel",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
+    file: "5.mp3",
+  }
+/*, // primeiro item do array
   {
     title: "7 - ",
     artist: "",
