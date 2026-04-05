@@ -39,36 +39,41 @@ export default [
     artist: "Módulo 01 - Noções gerais sobre os leilões",
     cover: "0.jpg",
     file: "5.mp3",
-  }
-/*, // primeiro item do array
+  },
+
   {
-    title: "7 - ",
-    artist: "",
-    cover: "1.jpeg",
+    title: "Aula 6 - Bem de Família ",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
+    file: "6.mp3",
+  },
+
+  {
+    title: "Aula 7 - Leiloeiros Oficiais",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
     file: "7.mp3",
   },
 
   {
-    title: "8 -",
-    artist: "Taos Elieri",
-    cover: "1.jpeg",
+    title: "Aula 8 - Edital de Leilão",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
     file: "8.mp3",
   },
 
   {
-    title: "9 -",
-    artist: "",
-    cover: "1.jpeg",
+    title: "Aula 9 - Primeira e Segunda Praça",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
     file: "9.mp3",
   },
-
-  {
-    title: "10 -",
-    artist: "",
-    cover: "1.jpeg",
+ {
+    title: "Aula 10 - Ferramenta de avaliação",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
     file: "10.mp3",
   },
-
-  // fim do array de objetos, sem caracteres inválidos */
+ /* */
 ];
 
