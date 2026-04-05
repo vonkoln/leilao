@@ -74,6 +74,12 @@ export default [
     cover: "1.jpg",
     file: "10.mp3",
   },
+  {
+    title: "Aula 11 - Calculadora de Leilão",
+    artist: "Módulo 01 - Noções gerais sobre os leilões",
+    cover: "1.jpg",
+    file: "11.mp3",
+  }
  /* */
 ];
 
