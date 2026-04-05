@@ -2,7 +2,7 @@ export default [
   {
     title: "Aula 0 Boas Vindas",
     artist: "Módulo 00",
-    cover: "0.jpg",
+    cover: "0.png",
     file: "0.mp3",
   },
 
