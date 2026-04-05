@@ -14,7 +14,7 @@ export default [
   }, // segundo item do array
 
   {
-    title: "Aula 2 - `Por que o imóvel vai a leilão e modalidades",
+    title: "Aula 2 - Por que o imóvel vai a leilão e modalidades",
     artist: "Módulo 01 - Noções gerais sobre os leilões",
     cover: "1.jpg",
     file: "2.mp3",
