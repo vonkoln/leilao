@@ -2,7 +2,7 @@ export default [
   {
     title: "Boas Vindas",
     artist: "-",
-    cover: "0.png",
+    cover: "0.jpg",
     file: "0.mp3",
   },
 
